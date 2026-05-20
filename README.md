@@ -33,3 +33,5 @@ As regras de negócio foram criadas utilizando medidas calculadas dinâmicas:
 * **Faturamento Bruto:**
   ```dax
   Faturamento Bruto = SUM('bd_vendas_portfolio fato_vendas'[valor_total])
+  Total Pedidos = COUNTROWS('bd_vendas_portfolio fato_vendas')
+  Ticket Médio = DIVIDE([Faturamento Bruto], [Total Pedidos])
