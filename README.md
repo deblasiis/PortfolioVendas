@@ -12,7 +12,7 @@ Este projeto consiste no desenvolvimento de uma solução de Business Intelligen
 
 ## 📐 Arquitetura e Modelagem dos Dados (Star Schema)
 Para garantir a performance das consultas e seguir as melhores práticas de mercado, os dados foram estruturados em um modelo dimensional **Esquema Estrela (Star Schema)** diretamente no MySQL:
-
+Usei nome de tabelas fato e dimensão, porque eu estava aprendendo sobre elas.
 * **Tabela Fato:** `fato_vendas` (Métricas de transações, quantidades e valores).
 * **Tabelas Dimensão:** * `dim_clientes` (Dados demográficos: Cidade, Estado).
   * `dim_produtos` (Catálogo: Nome do Produto, Categoria, Preço Unitário).
