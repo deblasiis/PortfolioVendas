@@ -38,17 +38,16 @@ As regras de negócio foram criadas utilizando medidas calculadas dinâmicas:
 
 ---
 ## Vendas 2025
----
 
 ## 📅 Atualização do Projeto: Análise Anual Consolidada (Base Histórica 2025)
 Para expandir o escopo do projeto e analisar o comportamento de mercado a longo prazo, implementei uma carga de dados histórica cobrindo o ano cheio de 2025 (122 transações).
 
 ### 📈 Insights Estratégicos Reais Obtidos:
-O Verdadeiro Pico do Ano: O faturamento explodiu logo no começo, em Janeiro, batendo quase $800k (R$ 788.830,00).
+O Verdadeiro Pico do Ano: O faturamento explodiu logo no começo, em Janeiro, batendo quase R$ 800k (R$ 788.830,00).
 
-O Ponto Crítico (Pior Mês): A maior queda histórica aconteceu em Abril, onde o faturamento despencou para menos de $50k (R$ 46.650,00).
+O Ponto Crítico (Pior Mês): A maior queda histórica aconteceu em Abril, onde o faturamento despencou para menos de R$ 50k (R$ 46.650,00).
 
-Recuperação: Logo após o tombo de abril, o mercado se recuperou fortemente em Maio, voltando para a faixa dos $511k.
+Recuperação: Logo após o tombo de abril, o mercado se recuperou fortemente em Maio, voltando para a faixa dos R$ 511.000.
 
 Líder de Vendas: O vendedor que mais trouxe receita foi o Carlos Souza (somando R$ 1.657.000,00), e não o Bruno.
 
