@@ -35,3 +35,6 @@ As regras de negócio foram criadas utilizando medidas calculadas dinâmicas:
   Faturamento Bruto = SUM('bd_vendas_portfolio fato_vendas'[valor_total])
   Total Pedidos = COUNTROWS('bd_vendas_portfolio fato_vendas')
   Ticket Médio = DIVIDE([Faturamento Bruto], [Total Pedidos])
+
+## Vendas 2025
+<img width="1742" height="978" alt="image" src="https://github.com/user-attachments/assets/4efc7115-64c4-4f7f-aeb3-43bdbe8db484" />
